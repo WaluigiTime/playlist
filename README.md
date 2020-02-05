@@ -1,6 +1,6 @@
 # Playlist Project
 
-### Gitpod Preview in Browser: python3 -m http.server 3000
+### Gitpod Preview in Browser: 
 
 ## Overview:
 In this unit, coders will create the classic game of tic tac toe in their browser! The user will input moves as player X or O on a tic tac toe board. When a player wins, the game will end and a message will display the winner.
@@ -18,9 +18,9 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 
 ### HTML/JavaScript
 - [x] Create a div to display your songs
-- [ ] Create an array to store your song names
-- [ ] Create a loop to display your song names
-- [ ] Repeat these steps for song artist, song length, image, and link
+- [x] Create an array to store your song names
+- [x] Create a loop to display your song names
+- [x] Repeat these steps for song artist, song length, image, and link
 
 #### Wrap
 - [ ] Push your changes!
