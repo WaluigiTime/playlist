@@ -1,4 +1,8 @@
-var songs = ["song1 ","song2 ","song3 ","song4 ","song5 "]
+var song1 = [ { name: "Song 1", 
+image: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS22qQeLF1KrH4sNhtOYO9vlwTxIJL3pnQP545MF6sQonJc9Hg9",
+artist: "sonic the hedgehog", 
+length: "infinity",
+link: "no" } ]
 
 songs.forEach(function(data) {
   $("#songs").append(data);
@@ -37,3 +41,5 @@ links.forEach(function(data) {
 });
 
 //---------------------------------------------------------\\
+
+var song1 = [""]
