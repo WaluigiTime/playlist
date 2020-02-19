@@ -1,8 +1,14 @@
-var song1 = [ { name: "Song 1", 
-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS22qQeLF1KrH4sNhtOYO9vlwTxIJL3pnQP545MF6sQonJc9Hg9",
-artist: "sonic the hedgehog", 
-length: "infinity",
-link: "no" } ]
+
+
+var playlist = [
+    {
+    song1: "gaming",
+    length1: 1.30,
+    artist1: "ohno",
+    link1: "https://www.youtube.com/watch?v=-wZuyIjIjLc",
+    image1: "https://i.ytimg.com/an_webp/-wZuyIjIjLc/mqdefault_6s.webp?du=3000&sqp=CM7btvIF&rs=AOn4CLATO2b1zmNNmSE3Q7l7dcI8lddF2g",
+    }
+]
 
 songs.forEach(function(data) {
   $("#songs").append(data);
