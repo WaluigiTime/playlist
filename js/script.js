@@ -8,9 +8,9 @@ var playlist = [
     link1: "https://www.youtube.com/watch?v=-wZuyIjIjLc",
     image1: "https://i.ytimg.com/an_webp/-wZuyIjIjLc/mqdefault_6s.webp?du=3000&sqp=CM7btvIF&rs=AOn4CLATO2b1zmNNmSE3Q7l7dcI8lddF2g",
     }
-]
+];
 
-songs.forEach(function(data) {
+playlist.forEach(function(data) {
   $("#songs").append(data);
 });
 
